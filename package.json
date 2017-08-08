@@ -1,0 +1,9 @@
+{
+  "dependencies": {},
+  "name": "inicial",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/juninmd/inicial-node-fatec.git",
+  "author": "juninmd <jr_acn@yahoo.com.br>",
+  "license": "MIT"
+}
