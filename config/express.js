@@ -5,5 +5,8 @@ module.exports = function () {
 
     app.use(express.static('./public'));
     
+    app.set('port', 3000);
+    app.set('ip', '127.0.0.1');
+
     return app;
 }
